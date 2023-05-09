@@ -1,4 +1,4 @@
-# Joint-learning-DEMO
+# Joint-learning-Demo
 for the paper: A Human-Machine Joint Learning Framework to Boost Endogenous BCI Training
 
 # download data
@@ -11,5 +11,5 @@ pychtoolbox + matlab 2020
 # run
 just download the data in the directory and run main.m
 
-# DEMO
+# Demo
 We recorded a video for the running process of the code to show the result. 
